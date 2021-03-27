@@ -6,3 +6,9 @@
  3. https://github.com/cvxgrp/cvxpy
  4. https://github.com/geilerloui/Convex-optimization
  5. https://github.com/NoamGit/CVX101-HW-with-python
+ 6. https://jonghank.github.io/ee786.html
+ 7. https://web.stanford.edu/~boyd/software.html
+ 8. http://scipy-lectures.org/advanced/mathematical_optimization/
+ 9. https://www.edx.org/course/convex-optimization?site-footer-language-select=es
+ 10. https://qiskit.org/documentation/tutorials/optimization/5_admm_optimizer.html
+ 11. https://github.com/debasishg/ml-readings/blob/master/convex.md
