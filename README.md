@@ -12,3 +12,4 @@
  9. https://www.edx.org/course/convex-optimization?site-footer-language-select=es
  10. https://qiskit.org/documentation/tutorials/optimization/5_admm_optimizer.html
  11. https://github.com/debasishg/ml-readings/blob/master/convex.md
+ 12. https://github.com/krrish94/OptimizationReadingList
