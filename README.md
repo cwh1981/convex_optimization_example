@@ -13,3 +13,4 @@
  10. https://qiskit.org/documentation/tutorials/optimization/5_admm_optimizer.html
  11. https://github.com/debasishg/ml-readings/blob/master/convex.md
  12. https://github.com/krrish94/OptimizationReadingList
+ 13. https://github.com/Aspire-Mayank/Wow_Deep_Learning_Content
