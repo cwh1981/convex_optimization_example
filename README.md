@@ -14,3 +14,4 @@
  11. https://github.com/debasishg/ml-readings/blob/master/convex.md
  12. https://github.com/krrish94/OptimizationReadingList
  13. https://github.com/Aspire-Mayank/Wow_Deep_Learning_Content
+ 14. https://lecture.cdsl.kr/cvxopt
