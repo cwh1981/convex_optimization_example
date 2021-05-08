@@ -16,3 +16,4 @@
  13. https://github.com/Aspire-Mayank/Wow_Deep_Learning_Content
  14. https://lecture.cdsl.kr/cvxopt
  15. https://github.com/yuyuchang/EE364a/tree/main/hw
+ 16. https://stanford.edu/~boyd/papers/cvx_short_course.html
