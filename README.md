@@ -1,5 +1,7 @@
 # convex_optimization_example
 
+text book : https://github.com/convex-optimization-for-all/convex-optimization-for-all.github.io
+
 # Reference
  1. https://web.stanford.edu/~boyd/cvxbook/
  2. https://www.jmlr.org/papers/volume17/15-408/15-408.pdf
