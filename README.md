@@ -21,3 +21,4 @@ text book : https://github.com/convex-optimization-for-all/convex-optimization-f
  16. https://stanford.edu/~boyd/papers/cvx_short_course.html
  17. https://cvxopt.org/userguide/coneprog.html
  18. https://github.com/epfml/OptML_course
+ 19. https://github.com/krrish94/OptimizationReadingList
